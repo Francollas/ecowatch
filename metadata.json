@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcoWatch - Monitoramento de Desmatamento",
+  "description": "Plataforma avançada para monitoramento de desmatamento em tempo real, integrando dados globais, análise de CO2/O2 e insights baseados em IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
